@@ -1,3 +1,3 @@
-module Go_Practice
+module GoLearning
 
 go 1.19
